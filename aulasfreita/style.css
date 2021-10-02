@@ -1,0 +1,30 @@
+.d-block {
+    display: block;
+    padding-top: 3%;
+    margin-top: 1%;
+    border-radius: 15px;
+    border-color: black;
+    width: 50%;
+}
+
+button {
+    width: 50%;
+    background-color: dodgerblue;
+    padding-top: 5%;
+    margin-top: 1%;
+    border-radius: 15px;
+    border-color: ghostwhite;
+}
+
+h5 {
+    font-size: 35px;
+}
+
+div {
+    margin-left: 20%;
+    margin-top: 10%;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
